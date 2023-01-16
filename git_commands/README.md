@@ -51,6 +51,9 @@ This command will push the master branch of the local repository to the remote r
 
 Please note that, if the repository is private, you will need to configure your ssh-key or credentials to push the repository.
 
+check this [GITHUBAPI](githubApI/README.md)
+ see how to get a github api key.
+
 You can check the status of the repository by running `git status`, you can see the logs by running `git log` and you can see the remote repository details by running `git remote -v`
 
 You can also use Git GUI client tools like SourceTree, GitKraken etc which will make the process of creating, committing and pushing to the repository easier.
